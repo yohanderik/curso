@@ -21,5 +21,5 @@ import keyword
 print(keyword.kwlist)
 
 #Nunca faça isso:
-#print = 10
+#print = '10'
 #print(5)
