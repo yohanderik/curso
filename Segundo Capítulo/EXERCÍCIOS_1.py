@@ -2,36 +2,36 @@
 
 #• Elefante
 
-      print('Certo')
+print('Certo')
 
 #• madeira
 
-      print('Certo')
+print('Certo')
 
 #• casaDePedra
 
-      print('Certo')
+print('Certo')
 
 #• tábua_de_passar
 
-      print('Certo')
+print('Certo')
 
 #• linha42
 
-      print('Errado, porque junta números com letras')
+print('Errado, porque junta números com letras')
 
 #• 3a_dimensão
 
-      print('Errado, porque junta números com letras')
- 
+print('Errado, porque junta números com letras')
+
 #• validação&verificação
 
-      print('Errado, porque junta símbolos com letras')
-  
+print('Errado, porque junta símbolos com letras')
+
 #• 14bis
 
-      print('Errado, porque junta números com letras')
-   
+print('Errado, porque junta números com letras')
+
 #• continue
 
-      print('Certo')
+print('Certo')
