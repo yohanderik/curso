@@ -7,13 +7,11 @@ print('Volume da esfera:', 4 / 3 * 3.14159 * R ** 3)
 
 
 
-PI = 3.14159
+π = 3.14159
 
 R = float(input('Entre com um raio:   '))
 
-print('Circuferencia:', 2 * PI * R)
-print('Área do circulo:', PI * R ** 2)                                           #Forma certa
-print('Área da esfera:', 4 * PI * R ** 2)
-print('Volume da esfera:', 4 / 3 * PI * R ** 3)
-
-PI = 0/1
+print('Circuferencia:', 2 * π * R)
+print('Área do circulo:', π * R ** 2)                                           #Forma certa
+print('Área da esfera:', 4 * π * R ** 2)
+print('Volume da esfera:', 4 / 3 * π * R ** 3)
